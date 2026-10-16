@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img">
+  <title>UnionRepos. Personal repositories, united.</title>
+  <rect x="0" y="500" width="1200" height="220" fill="#000000"/>
+  <text
+    x="72"
+    y="286"
+    fill="#1d1d1f"
+    font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+    font-size="92"
+    font-weight="600"
+    letter-spacing="-2.2"
+  >UnionRepos</text>
+  <text
+    x="72"
+    y="362"
+    fill="#6e6e73"
+    font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+    font-size="34"
+    font-weight="400"
+    letter-spacing="-0.4"
+  >Personal repositories, united.</text>
+  <text
+    x="72"
+    y="590"
+    fill="#ffffff"
+    font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+    font-size="44"
+    font-weight="600"
+    letter-spacing="-0.8"
+  >They start with a person.</text>
+  <text
+    x="72"
+    y="648"
+    fill="#a1a1a6"
+    font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+    font-size="32"
+    font-weight="600"
+    letter-spacing="-0.5"
+  >They live here together.</text>
+</svg>
